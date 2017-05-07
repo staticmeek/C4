@@ -1,0 +1,23 @@
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\bin\Debug\Ch 4 in class.exe
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\bin\Debug\Ch 4 in class.pdb
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch_4_in_class.MainForm.resources
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch_4_in_class.Properties.Resources.resources
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.exe
+\\Adminsrv\drosi$\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.pdb
+D:\None Synch Desktop\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.exe
+D:\None Synch Desktop\CS 175\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.pdb
+E:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.exe
+E:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.pdb
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.exe
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.pdb
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\bin\Debug\Ch 4 in class.exe
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\bin\Debug\Ch 4 in class.pdb
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.csprojResolveAssemblyReference.cache
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch_4_in_class.MainForm.resources
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch_4_in_class.Properties.Resources.resources
+J:\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.csproj.GenerateResource.Cache
+C:\Users\lucky\Documents\Homework Backup\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.exe
+C:\Users\lucky\Documents\Homework Backup\CS 175\Ch 4 in class\Ch 4 in class\Ch 4 in class\obj\x86\Debug\Ch 4 in class.pdb
